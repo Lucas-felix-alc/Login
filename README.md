@@ -1,4 +1,3 @@
 # Login
  Design Login
-O QUE FOI UTILIZADO:
-HTML5 & CSS3 
+Feito com HTML5 e CSS3
